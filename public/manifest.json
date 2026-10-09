@@ -1,0 +1,17 @@
+{
+  "name": "CityPulse: Your Living City Twin",
+  "short_name": "CityPulse",
+  "description": "Live, explainable digital twin of the city with real-time Pulse Scores",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1020",
+  "theme_color": "#0B1020",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%230B1020' stroke='%237C5CFF' stroke-width='6'/><path d='M25 55 L40 55 L48 30 L55 70 L62 45 L68 55 L75 55' fill='none' stroke='%2319E3B1' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
